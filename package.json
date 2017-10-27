@@ -1,0 +1,16 @@
+{
+  "name": "test-hacktoberfest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/xavieramoros/test.git",
+  "author": "Xavi Amoros <xavi.amoros@primaverasound.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react-native-fabric": "^0.5.1",
+    "react-native-gifted-form": "^0.1.0",
+    "react-native-google-analytics-bridge": "^5.3.3",
+    "react-native-push-notification": "^3.0.1",
+    "react-native-share": "^1.0.23",
+    "react-native-vector-icons": "^4.4.2"
+  }
+}
