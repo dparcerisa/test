@@ -1,0 +1,19 @@
+{
+  "name": "test-hacktoberfest",
+  "version": "1.0.0",
+  "description": "prova",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xavieramoros/test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xavieramoros/test/issues"
+  },
+  "homepage": "https://github.com/xavieramoros/test#readme"
+}
