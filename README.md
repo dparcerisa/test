@@ -1,2 +1,2 @@
 # test
-prova
+Aquest és un repo de prova
